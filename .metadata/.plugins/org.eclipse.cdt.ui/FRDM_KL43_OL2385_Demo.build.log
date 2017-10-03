@@ -1,0 +1,11 @@
+14:16:09 **** Build of configuration Debug for project FRDM_KL43_OL2385_Demo ****
+make -j4 all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "FRDM_KL43_OL2385_Demo.elf"
+   text	   data	    bss	    dec	    hex	filename
+  57040	    120	   4512	  61672	   f0e8	FRDM_KL43_OL2385_Demo.elf
+Finished building: FRDM_KL43_OL2385_Demo.siz
+ 
+
+14:16:09 Build Finished (took 463ms)
+
